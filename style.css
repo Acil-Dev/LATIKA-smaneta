@@ -17,8 +17,8 @@ body {
 }
 
 .kartu-profil img {
-  width: 100px;   /* Diperkecil dari 150px menjadi 100px */
-  height: 100px;  /* Disesuaikan agar tetap berbentuk lingkaran sempurna */
+  width: 100px;  
+  height: 100px;  
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid DodgerBlue;
