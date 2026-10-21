@@ -9,17 +9,17 @@ body {
 .kartu-profil {
   width: 300px;
   margin: 50px auto;
-  background-color: #ffffff; /* Diubah jadi putih agar lebih elegan */
+  background-color: #ffffff;
   border-radius: 15px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Diperbaiki nilainya agar bayangannya halus */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   padding: 25px;
   text-align: center;
 }
 
 .kartu-profil img {
-  width: 150px;
-  height: 150px;
+  width: 100px;   /* Diperkecil dari 150px menjadi 100px */
+  height: 100px;  /* Disesuaikan agar tetap berbentuk lingkaran sempurna */
   object-fit: cover;
   border-radius: 50%;
-  border: 3px solid DodgerBlue; /* Menambahkan aksen border agar foto profil makin menonjol */
+  border: 3px solid DodgerBlue;
 }
