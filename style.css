@@ -5,5 +5,12 @@ body{
 .kartu-profil {
   width: 300px;
   margin; 50px auto;
-  background-color: yellow}
+  background-color: yellow
+  border-radius: 15px
+  box-shadow: 0px px rgba(0,0,0,1)
+}
+kartu-profil img{
+  width: 150px
+  border-radius 50%}
+  
 
