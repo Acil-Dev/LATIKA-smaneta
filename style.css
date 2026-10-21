@@ -2,4 +2,8 @@ body{
   border: 2px solid DodgerBlue;
   font-family; Times New Romant}
   
-.kartu-profil
+.kartu-profil {
+  width: 300px;
+  margin; 50px auto;
+  background-color: yellow}
+
